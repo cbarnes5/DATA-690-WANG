@@ -26,5 +26,8 @@ ls
 To add a new folder to Github use a forward slash when adding a new file 
 
 ### Deepnote
-To add an interactive python notebook to Github, download the notebook to your local machine, 
-then upload on Github profile 
+ - To add an interactive python notebook to Github, download the notebook to your local machine, then upload on Github profile 
+ - Notebooks can run from the same page on which they are edited, while .py files must run from the terminal (a feature in deepnote) 
+ 
+ ## Code Writing Basics 
+ 
