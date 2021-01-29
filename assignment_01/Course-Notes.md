@@ -121,5 +121,5 @@ To add a new folder to Github use a forward slash when adding a new file
  - Multiline strings with line breaks can be written with triple quotes
  - Strings are immutable
  - Strings are a sequence of Unicode characters and therefore can be treated like other sequences, such as lists and tuples
- - The backslash character is an escape character, to write a string literal with backslashes you need to escape them with r'\\'
- - if you preface the leading quote of a string with an r (meaning raw), there is no need to use r'\\'
+ - The backslash character is an escape character, to write a string literal with backslashes you need to escape them with \\\
+ - if you preface the leading quote of a string with an r (meaning raw), there is no need to use \\\
