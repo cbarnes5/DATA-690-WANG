@@ -2,7 +2,8 @@
 **Author**: Crista Barnes
 
 **Date**: 1/28/2021
-## Focus on code writing preperation and environment/file type familiarity 
+
+**Focus on code writing preperation and environment/file type familiarity** 
 
 [Text Book](https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf)
 
@@ -10,9 +11,11 @@
 ipynb
 : interactive python notebook 
 
-- interactive python notebook = ipynb
-- present working directory = pwd
-- list files = ls 
+pwd
+ : present working directory
+ 
+ls
+ : list files
 
 ## Code writing ediquitte
 - Every Github repository should have a README.md
