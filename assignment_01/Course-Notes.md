@@ -1,5 +1,6 @@
 # Notes for Lesson 1
 **Author**:Crista Barnes
+
 **Date**: 1/28/2021
 ## Focus on preperation on how to write code and environment/file type familiarity 
 
@@ -12,8 +13,8 @@ present working directory = pwd
 list files = ls 
 
 ## Code writing ediquitte
--Every Github repository should have a README.md
--Include a title, author, and date in markdown file
+- Every Github repository should have a README.md
+- Include a title, author, and date in markdown file
 
 ## How to's
 ### Github
