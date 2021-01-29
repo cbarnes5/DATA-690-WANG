@@ -78,10 +78,18 @@ To add a new folder to Github use a forward slash when adding a new file
 **Dynamic reference, strong types**
  - Python is considered a strongly typed language, which means that every object has a specific type (or class), and implicit conversions will occur only in certain obvious circumstances
  
-| Syntax | Description |
+Binary operations
+| Operation | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| a + b | Add |
+| a - b | Subtract |
+| a * b | Multiply |
+| a / b | Divde |
+| a // b | Floor-divide a by b, dropping any fractional remainder |
+| a** b | Raise a to the b power |
+| a & b | True if both a and b are True |
+| a | b | True if either a or b is True | 
+
  
  
  
