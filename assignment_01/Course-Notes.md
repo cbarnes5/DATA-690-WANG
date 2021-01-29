@@ -8,9 +8,9 @@ Book:
 https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf
 
 ## Important terms
-interactive python notebook = ipynb
-present working directory = pwd
-list files = ls 
+- interactive python notebook = ipynb
+- present working directory = pwd
+- list files = ls 
 
 ## Code writing ediquitte
 - Every Github repository should have a README.md
