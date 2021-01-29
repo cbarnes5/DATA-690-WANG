@@ -59,7 +59,7 @@ To add a new folder to Github use a forward slash when adding a new file
 **The %run Command**
  - Run any file as a Python program by ussing the %run command
  
-**Interrupting running code 
+**Interrupting running code** 
  - Pressing Ctrl-C while code is running will cause a KeyboardInterrupt to be raised 
 
 ## Python Language Basics 
@@ -97,6 +97,28 @@ To add a new folder to Github use a forward slash when adding a new file
 | a is b | True if a and b reference the same Python object |
 | a is not b | True if a and b reference different Python objects |
 
+ **Mutable and immutable objects**
+  - Most objects in Python (lists, dicts, NumPy arrays, and most user-defined types (classes), are mutable
+  - strings and tuples are immutable
  
+ **Scalar Types**
+ "Single Value" types refered to as scalars
+| Type | Description |
+| ----------- | ----------- |
+| None | The Python “null” value (only one instance of the None object exists) |
+| str | String type; holds Unicode (UTF-8 encoded) strings |
+| bytes | Raw ASCII bytes (or Unicode encoded as bytes) |
+| float | Double-precision (64-bit) foating-point number |
+| bool | A True or False value |
+| int | Arbitrary precision signed integer |
+
+**Numeric types**
+ - int (integer) can store arbitarily large numbers
+ - float are floating-point numbers that can also be expressed with scientific notation 
  
- 
+**Strings**
+ - Can write string literals using either single quotes ' or double quotes "
+ - Multiline strings with line breaks can be written with triple quotes
+ - Strings are immutable
+ - Strings are a sequence of Unicode characters and therefore can be treated like other sequences, such as lists and tuples
+ - The backslash character is an escape character, to write a string literal with backslashes you need to escape them with \\
