@@ -88,7 +88,7 @@ To add a new folder to Github use a forward slash when adding a new file
 | a // b | Floor-divide a by b, dropping any fractional remainder |
 | a** b | Raise a to the b power |
 | a & b | True if both a and b are True |
-| a '''|''' b | True if either a or b is True | 
+| a &#124; b | True if either a or b is True | 
 | a ^ b | For booleans, True if a or b is True, but not both |
 | a == b | True if a equals b |
 | a != b | True is a is not equal to b |
