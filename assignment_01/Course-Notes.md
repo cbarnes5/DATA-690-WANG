@@ -1,6 +1,6 @@
 # Notes for Lesson 1
-** Author **:Crista Barnes
-** Date **: 1/28/2021
+**Author**:Crista Barnes
+**Date**: 1/28/2021
 ## Focus on preperation on how to write code and environment/file type familiarity 
 
 Book:
@@ -15,7 +15,7 @@ list files = ls
 -Every Github repository should have a README.md
 -Include a title, author, and date in markdown file
 
-##How to's
+## How to's
 ### Github
 To add a new folder to Github use a "\" when adding a new file 
 
