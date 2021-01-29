@@ -69,7 +69,7 @@ To add a new folder to Github use a forward slash when adding a new file
 
 **Comments**
  - text preceded by # is ignored by Python interpreter
- - # normally used to comment 
+ - Hashtag is normally used to comment 
  - Comments can go on the same line of code (behind it), or on the line preceding the code 
  
 **Argument Passing**
@@ -78,7 +78,7 @@ To add a new folder to Github use a forward slash when adding a new file
 **Dynamic reference, strong types**
  - Python is considered a strongly typed language, which means that every object has a specific type (or class), and implicit conversions will occur only in certain obvious circumstances
  
-	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
