@@ -127,17 +127,17 @@ To add a new folder to Github use a forward slash when adding a new file
 
 **Control Flow**
 1. if, elif, and else
-  - An if statement can be optionally followed by one or more elif blocks and a catch all else block if all the other conditions are False
-  - Once any of the conditions is True, no further elif or else blocks will be reached
+    - An if statement can be optionally followed by one or more elif blocks and a catch all else block if all the other conditions are False
+    - Once any of the conditions is True, no further elif or else blocks will be reached
 2. for loops
-  - Inside a for loop you can have a break keyword, which exits the innermost loop
+    - Inside a for loop you can have a break keyword, which exits the innermost loop
 3. while loops
-  - A while loop specifies a condition and a block of code that is to be executed until the condition evaluates to False of the loop is explicitly ended with break
+    - A while loop specifies a condition and a block of code that is to be executed until the condition evaluates to False of the loop is explicitly ended with break
 4. pass
-  - A "no-op" statement in python
+    - A "no-op" statement in python
 5. range
-  - Returns an iterator that yields a sequence of evenly spaced integers 
-  - Start, end, and step (which may be negative) can be given
+    - Returns an iterator that yields a sequence of evenly spaced integers 
+    - Start, end, and step (which may be negative) can be given
 6. Ternary expressions
-  - Allows you to combine an if-else block that produces a value into a single line or expression
+    - Allows you to combine an if-else block that produces a value into a single line or expression
  
