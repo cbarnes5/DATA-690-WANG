@@ -102,6 +102,7 @@ To add a new folder to Github use a forward slash when adding a new file
   - strings and tuples are immutable
  
  **Scalar Types**
+ 
  "Single Value" types refered to as scalars
 | Type | Description |
 | ----------- | ----------- |
@@ -122,4 +123,21 @@ To add a new folder to Github use a forward slash when adding a new file
  - Strings are immutable
  - Strings are a sequence of Unicode characters and therefore can be treated like other sequences, such as lists and tuples
  - The backslash character is an escape character, to write a string literal with backslashes you need to escape them with \\\
- - if you preface the leading quote of a string with an r (meaning raw), there is no need to use \\\
+ - If you preface the leading quote of a string with an r (meaning raw), there is no need to use \\\
+
+**Control Flow**
+1. if, elif, and else
+ - An if statement can be optionally followed by one or more elif blocks and a catch all else block if all the other conditions are False
+ - Once any of the conditions is True, no further elif or else blocks will be reached
+2. for loops
+ - Inside a for loop you can have a break keyword, which exits the innermost loop
+3. while loops
+ - A while loop specifies a condition and a block of code that is to be executed until the condition evaluates to False of the loop is explicitly ended with break
+4. pass
+ - A "no-op" statement in python
+5. range
+ - Returns an iterator that yields a sequence of evenly spaced integers 
+ - Start, end, and step (which may be negative) can be given
+6. Ternary expressions
+ - Allows you to combine an if-else block that produces a value into a single line or expression
+ 
