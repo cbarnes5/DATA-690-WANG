@@ -29,14 +29,12 @@ To add a new folder to Github use a forward slash when adding a new file
  - To add an interactive python notebook to Github, download the notebook to your local machine, then upload on Github profile 
  - Notebooks can run from the same page on which they are edited, while .py files must run from the terminal (a feature in deepnote) 
  
- ## Code Writing Basics 
- 
 # Notes from Text Book Chapters 1 & 2
 
 ## Essential Python Libraries
 
 **NumPy**
- - Cornerstone of Numerical comupting in Python
+ - Cornerstone of numerical comupting in Python
  - Provides the data structures, algorithms, and library glue for most scientific applications involving numerical data in Python
  - NumPy arrays are more effeciant than Python data structures for storing and manipulating data
 
@@ -49,7 +47,7 @@ To add a new folder to Github use a forward slash when adding a new file
 **matplotlib**
  - To create plots suitable for publication 
  
-##IPython Basics
+## IPython Basics
 **Tab**
  - While entereing expressions in the shell, press the Tab key to search for the namespace for any variables matching the characters you have typed so far
  
@@ -57,7 +55,7 @@ To add a new folder to Github use a forward slash when adding a new file
  - Using a question mark (?) before or after a variable will display general inormation about the object
  
 **The %run Command**
- - Run any file as a Python program by ussing the %run command
+ - Run any file as a Python program by using the %run command
  
 **Interrupting running code** 
  - Pressing Ctrl-C while code is running will cause a KeyboardInterrupt to be raised 
@@ -68,7 +66,7 @@ To add a new folder to Github use a forward slash when adding a new file
  - Always use 4 spaces, as is standard 
 
 **Comments**
- - text preceded by # is ignored by Python interpreter
+ - Text preceded by # is ignored by Python interpreter
  - Hashtag is normally used to comment 
  - Comments can go on the same line of code (behind it), or on the line preceding the code 
  
@@ -98,12 +96,12 @@ To add a new folder to Github use a forward slash when adding a new file
 | a is not b | True if a and b reference different Python objects |
 
  **Mutable and immutable objects**
-  - Most objects in Python (lists, dicts, NumPy arrays, and most user-defined types (classes), are mutable
-  - strings and tuples are immutable
+  - Most objects in Python (i.e. lists, dicts, NumPy arrays, and most user-defined types (classes)) are mutable
+  - Strings and tuples are immutable
  
  **Scalar Types**
  
- "Single Value" types refered to as scalars
+ "Single Value" types are refered to as scalars
 | Type | Description |
 | ----------- | ----------- |
 | None | The Python “null” value (only one instance of the None object exists) |
